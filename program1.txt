@@ -1,0 +1,13 @@
+
+DATE: 07-02-2024 / Wednesday
+
+This is created using vi text editor.
+====================================
+
+MY name is so and so .
+
+====================================
+
+This is the First CDD  text
+
+====================================
